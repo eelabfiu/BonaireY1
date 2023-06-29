@@ -1,0 +1,665 @@
+SiteName,Site,Month,Timepoint,Species,Genotype,Cluster_ID,nCorals,nPresent,Tissue_0,Tissue_1_25,Tissue_26_50,Tissue_51_75,Tissue_76_99,Tissue_100
+Oil Slick,OL,1,Initial,Apal,AP12,OL_AP12_1,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP9,OL_AP9_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP11,OL_AP11_2,5,5,0,0,0,0,1,4
+Oil Slick,OL,1,Initial,Apal,AP11,OL_AP11_1,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP10,OL_AP10_1,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP4,OL_AP4_2,5,5,0,0,0,0,1,4
+Oil Slick,OL,1,Initial,Apal,AP12,OL_AP12_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP2,OL_AP2_1,5,5,1,1,0,0,0,3
+Oil Slick,OL,1,Initial,Apal,AP17,OL_AP17_1,5,5,0,0,1,0,0,4
+Oil Slick,OL,1,Initial,Apal,AP7,OL_AP7_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP10,OL_AP10_2,5,5,0,0,0,1,0,4
+Oil Slick,OL,1,Initial,Apal,AP5,OL_AP5_1,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP6,OL_AP6_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP8,OL_AP8_1,5,5,0,0,0,0,1,4
+Oil Slick,OL,1,Initial,Apal,AP4,OL_AP4_1,5,5,0,0,0,0,2,3
+Oil Slick,OL,1,Initial,Apal,AP7,OL_AP7_1,5,5,0,0,0,0,1,4
+Oil Slick,OL,1,Initial,Apal,AP13,OL_AP13_2,5,5,1,0,0,0,0,4
+Oil Slick,OL,1,Initial,Apal,AP1,OL_AP1_1,5,5,0,0,0,0,1,4
+Oil Slick,OL,1,Initial,Apal,AP14,OL_AP14_2,5,5,1,0,0,0,0,4
+Oil Slick,OL,1,Initial,Apal,AP8,OL_AP8_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP2,OL_AP2_2,5,5,0,0,0,0,1,4
+Oil Slick,OL,1,Initial,Apal,AP17,OL_AP17_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP5,OL_AP5_2,5,5,0,0,0,1,1,3
+Oil Slick,OL,1,Initial,Apal,AP13,OL_AP13_1,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP14,OL_AP14_1,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP1,OL_AP1_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,1,Initial,Apal,AP6,OL_AP6_1,5,5,0,0,0,0,1,4
+Oil Slick,OL,1,Initial,Apal,AP9,OL_AP9_1,5,5,0,0,0,0,0,5
+Oil Slick,OL,7,Mid,Apal,AP12,OL_AP12_1,5,5,0,0,0,0,2,3
+Oil Slick,OL,7,Mid,Apal,AP9,OL_AP9_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,7,Mid,Apal,AP11,OL_AP11_2,5,5,0,0,0,0,1,4
+Oil Slick,OL,7,Mid,Apal,AP11,OL_AP11_1,5,4,0,0,0,0,2,2
+Oil Slick,OL,7,Mid,Apal,AP10,OL_AP10_1,5,5,0,0,0,0,1,4
+Oil Slick,OL,7,Mid,Apal,AP4,OL_AP4_2,5,5,0,0,0,0,3,2
+Oil Slick,OL,7,Mid,Apal,AP12,OL_AP12_2,5,5,0,0,0,0,2,3
+Oil Slick,OL,7,Mid,Apal,AP2,OL_AP2_1,5,3,0,0,0,0,0,3
+Oil Slick,OL,7,Mid,Apal,AP17,OL_AP17_1,5,5,0,0,1,0,0,4
+Oil Slick,OL,7,Mid,Apal,AP7,OL_AP7_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,7,Mid,Apal,AP10,OL_AP10_2,5,5,0,0,0,0,4,1
+Oil Slick,OL,7,Mid,Apal,AP5,OL_AP5_1,5,5,0,0,0,0,1,4
+Oil Slick,OL,7,Mid,Apal,AP6,OL_AP6_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,7,Mid,Apal,AP8,OL_AP8_1,5,5,1,1,1,0,1,1
+Oil Slick,OL,7,Mid,Apal,AP4,OL_AP4_1,5,5,0,0,0,0,4,1
+Oil Slick,OL,7,Mid,Apal,AP7,OL_AP7_1,5,5,0,0,0,0,0,5
+Oil Slick,OL,7,Mid,Apal,AP13,OL_AP13_2,5,5,1,0,0,0,1,3
+Oil Slick,OL,7,Mid,Apal,AP1,OL_AP1_1,5,5,0,0,1,0,1,3
+Oil Slick,OL,7,Mid,Apal,AP14,OL_AP14_2,5,5,1,0,1,1,1,1
+Oil Slick,OL,7,Mid,Apal,AP8,OL_AP8_2,5,5,0,0,0,0,1,4
+Oil Slick,OL,7,Mid,Apal,AP2,OL_AP2_2,5,5,0,0,1,0,3,1
+Oil Slick,OL,7,Mid,Apal,AP17,OL_AP17_2,5,5,0,0,0,0,1,4
+Oil Slick,OL,7,Mid,Apal,AP5,OL_AP5_2,5,5,0,0,0,1,4,0
+Oil Slick,OL,7,Mid,Apal,AP13,OL_AP13_1,5,5,0,0,0,0,4,1
+Oil Slick,OL,7,Mid,Apal,AP14,OL_AP14_1,5,5,0,0,0,0,1,4
+Oil Slick,OL,7,Mid,Apal,AP1,OL_AP1_2,5,5,1,0,0,0,1,3
+Oil Slick,OL,7,Mid,Apal,AP6,OL_AP6_1,5,5,1,0,0,0,0,4
+Oil Slick,OL,7,Mid,Apal,AP9,OL_AP9_1,5,5,0,0,0,0,1,4
+Oil Slick,OL,13,Year,Apal,AP9,OL_AP9_2,5,5,0,0,0,0,2,3
+Oil Slick,OL,13,Year,Apal,AP11,OL_AP11_2,5,5,0,1,0,0,3,1
+Oil Slick,OL,13,Year,Apal,AP11,OL_AP11_1,5,4,0,0,0,1,3,0
+Oil Slick,OL,13,Year,Apal,AP4,OL_AP4_2,5,4,2,2,0,0,0,0
+Oil Slick,OL,13,Year,Apal,AP12,OL_AP12_2,5,5,0,0,0,0,4,1
+Oil Slick,OL,13,Year,Apal,AP2,OL_AP2_1,5,3,0,0,0,0,2,1
+Oil Slick,OL,13,Year,Apal,AP17,OL_AP17_1,5,5,0,0,1,0,2,2
+Oil Slick,OL,13,Year,Apal,AP10,OL_AP10_2,5,5,0,0,0,0,0,5
+Oil Slick,OL,13,Year,Apal,AP5,OL_AP5_1,5,5,0,0,0,0,2,3
+Oil Slick,OL,13,Year,Apal,AP6,OL_AP6_2,5,5,0,0,0,0,1,4
+Oil Slick,OL,13,Year,Apal,AP8,OL_AP8_1,5,4,3,1,0,0,0,0
+Oil Slick,OL,13,Year,Apal,AP4,OL_AP4_1,5,5,0,0,2,0,3,0
+Oil Slick,OL,13,Year,Apal,AP7,OL_AP7_1,5,5,0,0,1,0,0,4
+Oil Slick,OL,13,Year,Apal,AP13,OL_AP13_2,5,5,1,0,0,0,3,1
+Oil Slick,OL,13,Year,Apal,AP1,OL_AP1_1,5,5,0,2,1,1,0,1
+Oil Slick,OL,13,Year,Apal,AP14,OL_AP14_2,5,5,0,2,0,0,2,1
+Oil Slick,OL,13,Year,Apal,AP8,OL_AP8_2,5,5,0,0,0,0,3,2
+Oil Slick,OL,13,Year,Apal,AP2,OL_AP2_2,5,5,2,0,0,1,2,0
+Oil Slick,OL,13,Year,Apal,AP17,OL_AP17_2,5,5,0,0,0,0,2,3
+Oil Slick,OL,13,Year,Apal,AP5,OL_AP5_2,5,5,0,0,0,0,3,2
+Oil Slick,OL,13,Year,Apal,AP13,OL_AP13_1,5,5,0,0,1,1,3,0
+Oil Slick,OL,13,Year,Apal,AP14,OL_AP14_1,5,5,0,0,0,0,2,3
+Oil Slick,OL,13,Year,Apal,AP1,OL_AP1_2,5,4,0,0,0,1,1,2
+Oil Slick,OL,13,Year,Apal,AP6,OL_AP6_1,5,4,1,0,0,0,1,3
+Oil Slick,OL,13,Year,Apal,AP9,OL_AP9_1,5,5,0,0,0,1,2,2
+South Bay II,SB2,1,Initial,Apal,AP10,SB2_AP10_3,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP10,SB2_AP10_4,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP10,SB2_AP10_5,5,5,0,0,1,0,0,4
+South Bay II,SB2,1,Initial,Apal,AP10,SB2_AP10_6,5,5,0,0,0,0,1,4
+South Bay II,SB2,1,Initial,Apal,AP10,SB2_AP10_7,5,5,0,0,0,0,2,3
+South Bay II,SB2,1,Initial,Apal,AP10,SB2_AP10_8,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP10,SB2_AP10_9,5,5,0,0,0,1,0,4
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_1,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_2,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_3,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_4,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_5,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_6,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_7,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_8,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_9,5,5,0,0,0,0,0,5
+South Bay II,SB2,1,Initial,Apal,AP11,SB2_AP11_10,5,5,0,0,0,0,0,5
+South Bay II,SB2,18,Year,Apal,AP10,SB2_AP10_2,5,5,0,0,1,0,0,4
+South Bay II,SB2,18,Year,Apal,AP10,SB2_AP10_3,5,4,0,1,0,2,1,0
+South Bay II,SB2,18,Year,Apal,AP10,SB2_AP10_4,5,5,1,0,0,0,0,4
+South Bay II,SB2,18,Year,Apal,AP10,SB2_AP10_5,5,5,0,0,0,0,0,5
+South Bay II,SB2,18,Year,Apal,AP10,SB2_AP10_6,5,5,0,0,0,0,2,3
+South Bay II,SB2,18,Year,Apal,AP10,SB2_AP10_7,5,5,0,0,0,0,0,5
+South Bay II,SB2,18,Year,Apal,AP10,SB2_AP10_8,5,4,0,0,0,0,3,1
+South Bay II,SB2,18,Year,Apal,AP10,SB2_AP10_9,5,5,2,0,0,3,0,0
+South Bay II,SB2,18,Year,Apal,AP11,SB2_AP11_1,5,5,0,0,0,0,0,5
+South Bay II,SB2,18,Year,Apal,AP11,SB2_AP11_10,5,5,3,0,0,0,0,2
+South Bay II,SB2,18,Year,Apal,AP11,SB2_AP11_2,5,5,0,0,0,0,2,3
+South Bay II,SB2,18,Year,Apal,AP11,SB2_AP11_3,5,5,2,0,0,0,1,2
+South Bay II,SB2,18,Year,Apal,AP11,SB2_AP11_5,5,3,1,0,0,0,0,2
+South Bay II,SB2,18,Year,Apal,AP11,SB2_AP11_6,5,5,2,2,1,0,0,0
+South Bay II,SB2,18,Year,Apal,AP11,SB2_AP11_7,5,1,1,0,0,0,0,0
+South Bay II,SB2,18,Year,Apal,AP11,SB2_AP11_8,5,4,0,0,0,0,0,4
+Carls Hill,CH,6,Mid,Apal,AP1,CH_AP1_28,5,5,2,1,1,0,1,0
+Carls Hill,CH,6,Mid,Apal,AP1,CH_AP1_24,5,5,0,0,0,0,1,4
+Carls Hill,CH,6,Mid,Apal,AP1,CH_AP1_34,5,5,2,1,0,0,1,1
+Carls Hill,CH,6,Mid,Apal,AP2,CH_AP2_8,5,5,4,1,0,0,0,0
+Carls Hill,CH,6,Mid,Apal,AP4,CH_AP4_9,5,5,1,0,0,0,4,0
+Carls Hill,CH,6,Mid,Apal,AP4,CH_AP4_10,5,5,0,0,0,0,2,3
+Carls Hill,CH,6,Mid,Apal,AP4,CH_AP4_11,5,5,0,0,0,0,5,0
+Carls Hill,CH,6,Mid,Apal,AP5,CH_AP5_7,5,5,0,0,0,1,2,2
+Carls Hill,CH,6,Mid,Apal,AP5,CH_AP5_6,5,5,0,0,0,0,0,5
+Carls Hill,CH,6,Mid,Apal,AP6,CH_AP6_29,5,4,0,0,0,0,0,4
+Carls Hill,CH,6,Mid,Apal,AP6,CH_AP6_28,5,3,0,0,0,0,0,3
+Carls Hill,CH,6,Mid,Apal,AP7,CH_AP7_31,5,5,0,0,0,0,0,5
+Carls Hill,CH,6,Mid,Apal,AP7,CH_AP7_28,5,5,0,0,0,1,0,4
+Carls Hill,CH,6,Mid,Apal,AP7,CH_AP7_29,5,5,0,0,0,0,1,4
+Carls Hill,CH,6,Mid,Apal,AP7,CH_AP7_30,5,4,1,0,0,0,1,2
+Carls Hill,CH,6,Mid,Apal,AP8,CH_AP8_50,5,3,2,1,0,0,0,0
+Carls Hill,CH,6,Mid,Apal,AP8,CH_AP8_47,5,5,1,1,0,0,3,0
+Carls Hill,CH,6,Mid,Apal,AP9,CH_AP9_52,5,5,0,0,0,0,3,2
+Carls Hill,CH,6,Mid,Apal,AP9,CH_AP9_53,5,4,0,0,0,0,0,4
+Carls Hill,CH,6,Mid,Apal,AP10,CH_AP10_33,5,5,0,0,0,0,3,2
+Carls Hill,CH,6,Mid,Apal,AP10,CH_AP10_30,5,5,0,0,0,0,0,5
+Carls Hill,CH,6,Mid,Apal,AP10,CH_AP10_31,5,5,0,1,0,0,3,1
+Carls Hill,CH,6,Mid,Apal,AP11,CH_AP11_31,5,3,0,0,0,0,0,3
+Carls Hill,CH,6,Mid,Apal,AP11,CH_AP11_29,5,1,0,0,0,0,1,0
+Carls Hill,CH,6,Mid,Apal,AP11,CH_AP11_36,5,5,1,1,1,0,1,1
+Carls Hill,CH,6,Mid,Apal,AP13,CH_AP13_3,5,5,1,0,0,0,2,2
+Carls Hill,CH,6,Mid,Apal,AP13,CH_AP13_1,5,5,0,0,0,1,3,1
+Carls Hill,CH,6,Mid,Apal,AP14,CH_AP14_4,5,5,4,1,0,0,0,0
+Carls Hill,CH,6,Mid,Apal,AP14,CH_AP14_2,5,5,2,0,1,0,2,0
+Carls Hill,CH,6,Mid,Apal,AP15,CH_AP15_2,5,3,1,0,0,0,2,0
+Carls Hill,CH,6,Mid,Apal,AP15,CH_AP15_3,5,2,1,1,0,0,0,0
+Carls Hill,CH,6,Mid,Apal,AP16,CH_AP16_9,5,4,0,2,0,0,1,1
+Carls Hill,CH,6,Mid,Apal,AP16,CH_AP16_5,5,5,3,1,0,0,1,0
+Carls Hill,CH,6,Mid,Apal,AP17,CH_AP17_6,5,5,0,2,0,0,2,1
+Carls Hill,CH,6,Mid,Apal,AP17,CH_AP17_5,5,5,3,1,0,0,1,0
+Carls Hill,CH,6,Mid,Apal,AP18,CH_AP18_4,5,4,0,0,2,0,2,0
+Carls Hill,CH,6,Mid,Apal,AP18,CH_AP18_5,5,4,0,0,0,1,3,0
+Carls Hill,CH,6,Mid,Apal,AP19,CH_AP19_4,5,5,0,0,0,5,0,0
+Carls Hill,CH,6,Mid,Apal,AP19,CH_AP19_5,5,3,2,0,0,1,0,0
+Carls Hill,CH,6,Mid,Apal,AP20,CH_AP20_8,5,5,2,2,1,0,0,0
+Carls Hill,CH,6,Mid,Apal,AP20,CH_AP20_6,5,4,0,0,0,0,3,1
+Carls Hill,CH,6,Mid,Apal,AP21,CH_AP21_4,5,5,0,0,1,0,2,2
+Carls Hill,CH,6,Mid,Apal,AP21,CH_AP21_8,5,5,2,0,0,1,2,0
+Carls Hill,CH,6,Mid,Apal,AP21,CH_AP21_6,5,5,1,2,0,0,1,1
+Carls Hill,CH,6,Mid,Apal,AP22,CH_AP22_6,5,5,0,0,0,1,0,4
+Carls Hill,CH,6,Mid,Apal,AP22,CH_AP22_2,5,5,5,0,0,0,0,0
+Carls Hill,CH,6,Mid,Apal,AP23,CH_AP23_9,5,5,2,0,0,0,1,2
+Carls Hill,CH,6,Mid,Apal,AP23,CH_AP23_8,5,5,0,1,0,0,2,2
+Carls Hill,CH,6,Mid,Apal,AP26,CH_AP26_1,5,5,0,0,0,0,4,1
+Carls Hill,CH,6,Mid,Apal,AP26,CH_AP26_2,5,4,0,0,0,0,1,3
+Carls Hill,CH,3,Initial,Apal,AP1,CH_AP1_26,5,4,1,2,0,0,1,0
+Carls Hill,CH,3,Initial,Apal,AP1,CH_AP1_28,5,5,2,0,0,1,1,1
+Carls Hill,CH,3,Initial,Apal,AP1,CH_AP1_29,5,5,1,0,0,0,2,2
+Carls Hill,CH,3,Initial,Apal,AP1,CH_AP1_30,5,5,2,0,0,0,0,3
+Carls Hill,CH,3,Initial,Apal,AP1,CH_AP1_31,5,5,0,0,0,0,0,5
+Carls Hill,CH,3,Initial,Apal,AP1,CH_AP1_33,5,5,1,0,0,1,0,3
+Carls Hill,CH,3,Initial,Apal,AP1,CH_AP1_34,6,6,0,0,0,1,3,2
+Carls Hill,CH,3,Initial,Apal,AP2,CH_AP2_8,5,5,0,0,0,0,4,1
+Carls Hill,CH,3,Initial,Apal,AP4,CH_AP4_9,5,4,0,0,0,1,2,1
+Carls Hill,CH,3,Initial,Apal,AP4,CH_AP4_10,5,5,0,0,0,0,3,2
+Carls Hill,CH,3,Initial,Apal,AP4,CH_AP4_11,5,5,0,0,0,0,3,2
+Carls Hill,CH,3,Initial,Apal,AP5,CH_AP5_5,5,5,0,0,0,2,1,2
+Carls Hill,CH,3,Initial,Apal,AP5,CH_AP5_6,5,5,0,0,0,0,0,5
+Carls Hill,CH,3,Initial,Apal,AP5,CH_AP5_7,5,5,0,0,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP5,CH_AP5_8,5,5,0,0,0,0,0,5
+Carls Hill,CH,3,Initial,Apal,AP5,CH_AP5_9,5,5,1,0,0,0,0,4
+Carls Hill,CH,3,Initial,Apal,AP5,CH_AP5_10,5,5,3,0,0,0,0,2
+Carls Hill,CH,3,Initial,Apal,AP6,CH_AP6_27,5,5,3,0,0,0,2,0
+Carls Hill,CH,3,Initial,Apal,AP6,CH_AP6_28,5,5,2,0,0,0,0,3
+Carls Hill,CH,3,Initial,Apal,AP6,CH_AP6_29,5,4,0,0,0,0,0,4
+Carls Hill,CH,3,Initial,Apal,AP7,CH_AP7_28,5,5,0,0,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP7,CH_AP7_31,5,6,0,1,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP7,CH_AP7_32,5,5,0,0,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP8,CH_AP8_46,5,5,1,0,0,0,3,1
+Carls Hill,CH,3,Initial,Apal,AP8,CH_AP8_47,5,5,0,0,0,0,2,3
+Carls Hill,CH,3,Initial,Apal,AP8,CH_AP8_48,5,5,0,0,0,0,3,2
+Carls Hill,CH,3,Initial,Apal,AP8,CH_AP8_49,5,5,0,0,0,1,1,3
+Carls Hill,CH,3,Initial,Apal,AP8,CH_AP8_50,5,5,2,1,0,0,2,0
+Carls Hill,CH,3,Initial,Apal,AP8,CH_AP8_51,5,5,0,1,0,0,1,3
+Carls Hill,CH,3,Initial,Apal,AP8,CH_AP8_52,5,5,1,0,0,0,2,2
+Carls Hill,CH,3,Initial,Apal,AP8,CH_AP8_53,5,5,0,1,0,0,1,3
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_43,5,5,0,0,0,0,0,5
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_44,5,4,0,0,0,0,2,2
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_45,5,5,0,0,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_46,5,5,0,0,0,1,4,0
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_47,5,5,2,1,0,0,1,1
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_49,5,5,0,0,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_51,5,4,0,0,0,0,0,4
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_52,5,5,0,0,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP9,CH_AP9_53,5,5,0,0,0,0,2,3
+Carls Hill,CH,3,Initial,Apal,AP10,CH_AP10_30,5,5,0,0,0,0,0,5
+Carls Hill,CH,3,Initial,Apal,AP10,CH_AP10_33,5,5,0,0,0,0,0,5
+Carls Hill,CH,3,Initial,Apal,AP10,CH_AP10_34,5,5,0,0,0,0,2,3
+Carls Hill,CH,3,Initial,Apal,AP10,CH_AP10_35,5,4,0,0,1,0,0,3
+Carls Hill,CH,3,Initial,Apal,AP11,CH_AP11_27,5,5,0,0,0,0,0,5
+Carls Hill,CH,3,Initial,Apal,AP11,CH_AP11_28,5,3,0,0,0,0,2,1
+Carls Hill,CH,3,Initial,Apal,AP11,CH_AP11_32,5,5,5,0,0,0,0,0
+Carls Hill,CH,3,Initial,Apal,AP11,CH_AP11_34,5,5,0,0,1,0,4,0
+Carls Hill,CH,3,Initial,Apal,AP13,CH_AP13_1,5,5,0,0,0,0,3,2
+Carls Hill,CH,3,Initial,Apal,AP13,CH_AP13_3,4,4,1,0,0,0,0,3
+Carls Hill,CH,3,Initial,Apal,AP14,CH_AP14_2,5,5,2,0,0,0,0,3
+Carls Hill,CH,3,Initial,Apal,AP14,CH_AP14_3,5,5,3,1,1,0,0,0
+Carls Hill,CH,3,Initial,Apal,AP14,CH_AP14_4,5,5,4,1,0,0,0,0
+Carls Hill,CH,3,Initial,Apal,AP15,CH_AP15_3,5,5,4,0,0,0,1,0
+Carls Hill,CH,3,Initial,Apal,AP16,CH_AP16_5,5,5,1,0,0,0,3,1
+Carls Hill,CH,3,Initial,Apal,AP16,CH_AP16_6,5,5,0,0,0,0,0,5
+Carls Hill,CH,3,Initial,Apal,AP16,CH_AP16_7,5,5,1,0,0,3,1,0
+Carls Hill,CH,3,Initial,Apal,AP16,CH_AP16_9,5,6,2,2,0,0,1,1
+Carls Hill,CH,3,Initial,Apal,AP17,CH_AP17_4,5,5,2,0,1,1,1,0
+Carls Hill,CH,3,Initial,Apal,AP17,CH_AP17_5,5,5,0,0,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP17,CH_AP17_6,5,5,0,0,0,1,3,1
+Carls Hill,CH,3,Initial,Apal,AP17,CH_AP17_7,5,4,3,0,0,0,0,1
+Carls Hill,CH,3,Initial,Apal,AP18,CH_AP18_2,5,4,0,2,0,0,2,0
+Carls Hill,CH,3,Initial,Apal,AP18,CH_AP18_3,5,5,1,0,0,0,0,4
+Carls Hill,CH,3,Initial,Apal,AP18,CH_AP18_5,5,5,1,0,1,0,2,1
+Carls Hill,CH,3,Initial,Apal,AP19,CH_AP19_4,5,5,0,0,0,1,4,0
+Carls Hill,CH,3,Initial,Apal,AP19,CH_AP19_5,5,3,0,1,0,0,1,1
+Carls Hill,CH,3,Initial,Apal,AP20,CH_AP20_6,5,5,1,0,0,0,0,4
+Carls Hill,CH,3,Initial,Apal,AP20,CH_AP20_7,5,5,4,0,0,0,1,0
+Carls Hill,CH,3,Initial,Apal,AP20,CH_AP20_9,5,5,0,0,0,0,1,4
+Carls Hill,CH,3,Initial,Apal,AP20,CH_AP20_10,5,3,0,0,0,0,1,2
+Carls Hill,CH,3,Initial,Apal,AP21,CH_AP21_4,5,5,0,1,0,0,1,3
+Carls Hill,CH,3,Initial,Apal,AP21,CH_AP21_5,5,4,2,0,0,0,0,2
+Carls Hill,CH,3,Initial,Apal,AP21,CH_AP21_7,5,5,0,0,0,0,3,2
+Carls Hill,CH,3,Initial,Apal,AP21,CH_AP21_8,5,5,1,0,1,0,3,0
+Carls Hill,CH,3,Initial,Apal,AP21,CH_AP21_9,5,5,2,2,1,0,0,0
+Carls Hill,CH,3,Initial,Apal,AP21,CH_AP21_10,5,5,2,0,0,0,3,0
+Carls Hill,CH,3,Initial,Apal,AP22,CH_AP22_2,5,5,5,0,0,0,0,0
+Carls Hill,CH,3,Initial,Apal,AP22,CH_AP22_4,5,5,1,2,0,1,0,1
+Carls Hill,CH,3,Initial,Apal,AP22,CH_AP22_5,5,5,0,1,0,0,0,4
+Carls Hill,CH,3,Initial,Apal,AP23,CH_AP23_6,5,5,3,1,0,0,1,0
+Carls Hill,CH,3,Initial,Apal,AP23,CH_AP23_7,5,5,1,0,0,0,4,0
+Carls Hill,CH,3,Initial,Apal,AP23,CH_AP23_8,5,5,0,1,0,0,0,4
+Carls Hill,CH,3,Initial,Apal,AP23,CH_AP23_9,5,5,2,0,0,0,2,1
+Carls Hill,CH,3,Initial,Apal,AP26,CH_AP26_1,5,5,0,0,0,0,1,4
+Mi Dushi I,MD1,13,Year,Acer,AC1,MD_AC1_3,10,10,0,0,0,0,3,7
+Mi Dushi I,MD1,13,Year,Acer,AC1,MD_AC1_7,11,11,0,0,0,1,4,6
+Mi Dushi I,MD1,13,Year,Acer,AC1,MD_AC1_9,10,10,0,0,0,0,5,5
+Mi Dushi I,MD1,13,Year,Acer,AC1,MD_AC1_10,10,10,0,1,2,0,2,5
+Mi Dushi I,MD1,13,Year,Acer,AC1,MD_AC1_14,10,10,0,0,0,2,1,7
+Mi Dushi I,MD1,13,Year,Acer,AC3,MD_AC3_2,10,10,3,4,2,0,0,1
+Mi Dushi I,MD1,13,Year,Acer,AC3,MD_AC3_3,10,10,5,2,3,0,0,0
+Mi Dushi I,MD1,13,Year,Acer,AC3,MD_AC3_5,10,10,3,2,1,0,1,3
+Mi Dushi I,MD1,13,Year,Acer,AC3,MD_AC3_18,10,10,1,1,1,0,7,0
+Mi Dushi I,MD1,13,Year,Acer,AC3,MD_AC3_22,10,10,0,1,0,0,2,7
+Mi Dushi I,MD1,13,Year,Acer,AC4,MD_AC4_7,10,10,2,0,4,3,1,0
+Mi Dushi I,MD1,13,Year,Acer,AC4,MD_AC4_14,10,10,0,0,0,1,2,7
+Mi Dushi I,MD1,13,Year,Acer,AC4,MD_AC4_15,10,9,0,1,0,0,3,5
+Mi Dushi I,MD1,13,Year,Acer,AC4,MD_AC4_21,10,10,0,0,0,1,1,8
+Mi Dushi I,MD1,13,Year,Acer,AC4,MD_AC4_22,10,10,0,0,2,0,2,6
+Mi Dushi I,MD1,13,Year,Acer,AC5,MD_AC5_8,25,25,1,2,5,6,7,4
+Mi Dushi I,MD1,13,Year,Acer,AC5,MD_AC5_12,10,10,0,0,1,2,2,5
+Mi Dushi I,MD1,13,Year,Acer,AC5,MD_AC5_13,10,10,0,0,1,1,1,7
+Mi Dushi I,MD1,13,Year,Acer,AC6,MD_AC6_1,10,10,0,2,0,0,2,6
+Mi Dushi I,MD1,13,Year,Acer,AC6,MD_AC6_2,10,10,0,2,0,0,4,4
+Mi Dushi I,MD1,13,Year,Acer,AC6,MD_AC6_7,10,10,3,2,0,3,2,0
+Mi Dushi I,MD1,13,Year,Acer,AC6,MD_AC6_12,10,10,2,4,1,0,3,0
+Mi Dushi I,MD1,13,Year,Acer,AC6,MD_AC6_14,10,10,2,0,0,2,4,2
+Mi Dushi I,MD1,13,Year,Acer,AC6,MD_AC6_21,10,10,2,0,2,0,1,5
+Mi Dushi I,MD1,13,Year,Acer,AC6,MD_AC6_22,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC7,MD_AC7_6,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC7,MD_AC7_9,10,10,0,0,1,0,3,6
+Mi Dushi I,MD1,13,Year,Acer,AC8,MD_AC8_1,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC8,MD_AC8_19,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC8,MD_AC8_22,10,10,0,0,0,0,0,10
+Mi Dushi I,MD1,13,Year,Acer,AC8,MD_AC8_24,10,9,0,0,0,0,1,8
+Mi Dushi I,MD1,13,Year,Acer,AC8,MD_AC8_26,10,10,0,0,0,0,2,8
+Mi Dushi I,MD1,13,Year,Acer,AC9,MD_AC9_6,10,10,0,0,1,3,6,0
+Mi Dushi I,MD1,13,Year,Acer,AC9,MD_AC9_7,10,10,0,1,4,2,3,0
+Mi Dushi I,MD1,13,Year,Acer,AC9,MD_AC9_14,11,11,0,2,1,1,5,2
+Mi Dushi I,MD1,13,Year,Acer,AC9,MD_AC9_16,12,10,0,0,0,1,3,6
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_5,10,10,0,0,1,1,7,1
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_11,10,10,2,1,2,2,2,1
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_13,10,10,1,1,1,5,1,1
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_14,10,10,3,2,0,2,3,0
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_18,10,10,0,0,1,4,3,2
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_19,11,10,0,1,1,3,3,2
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_22,10,10,1,4,0,1,4,0
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_29,10,10,0,0,0,0,3,7
+Mi Dushi I,MD1,13,Year,Acer,AC10,MD_AC10_30,10,10,0,0,0,0,2,8
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_2,10,10,0,0,0,0,3,7
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_8,10,10,1,1,1,1,4,2
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_12,10,10,0,0,0,0,4,6
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_14,10,10,0,0,0,0,2,8
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_15,10,10,0,0,0,0,2,8
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_19,10,10,0,0,0,0,4,6
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_20,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_25,10,9,0,0,0,0,2,7
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_27,10,10,0,0,0,0,2,8
+Mi Dushi I,MD1,13,Year,Acer,AC11,MD_AC11_29,10,10,0,0,0,0,0,10
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_6,27,27,0,0,0,0,3,24
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_8,26,26,0,0,0,0,6,20
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_9,10,10,0,0,0,1,1,8
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_13,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_19,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_21,10,10,0,0,0,0,0,10
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_22,10,10,0,0,0,0,0,10
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_23,10,10,0,0,0,0,0,10
+Mi Dushi I,MD1,13,Year,Acer,AC12,MD_AC12_24,10,10,0,0,0,0,0,10
+Mi Dushi I,MD1,13,Year,Acer,AC13,MD_AC13_1,10,10,0,0,0,0,0,10
+Mi Dushi I,MD1,13,Year,Acer,AC15,MD_AC15_1,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC15,MD_AC15_8,10,10,0,0,0,0,1,9
+Mi Dushi I,MD1,13,Year,Acer,AC19,MD_AC19_3,11,11,0,2,2,0,3,4
+Mi Dushi I,MD1,13,Year,Acer,AC24,MD_AC24_2,10,10,0,0,0,0,0,10
+Mi Dushi I,MD1,13,Year,Acer,AC24,MD_AC24_3,10,10,0,0,0,0,0,10
+Yellow Man ,YM,6,Mid,Acer,AC1,YM_AC1_1,10,10,2,3,0,3,2,0
+Yellow Man ,YM,6,Mid,Acer,AC1,YM_AC1_9,10,10,0,4,0,2,3,1
+Yellow Man ,YM,6,Mid,Acer,AC1,YM_AC1_18,10,10,0,0,1,2,5,2
+Yellow Man ,YM,6,Mid,Acer,AC1,YM_AC1_20,10,10,0,1,2,3,4,0
+Yellow Man ,YM,6,Mid,Acer,AC1,YM_AC1_11,10,9,1,0,2,0,4,2
+Yellow Man ,YM,6,Mid,Acer,AC1,YM_AC1_17,10,10,0,2,1,2,5,0
+Yellow Man ,YM,6,Mid,Acer,AC3,YM_AC3_14,10,10,1,3,1,1,4,0
+Yellow Man ,YM,6,Mid,Acer,AC3,YM_AC3_12,10,10,1,1,1,3,4,0
+Yellow Man ,YM,6,Mid,Acer,AC3,YM_AC3_11,10,10,3,2,0,2,3,0
+Yellow Man ,YM,6,Mid,Acer,AC3,YM_AC3_3,10,10,0,0,0,2,8,0
+Yellow Man ,YM,6,Mid,Acer,AC3,YM_AC3_1,10,10,1,1,1,5,2,0
+Yellow Man ,YM,6,Mid,Acer,AC3,YM_AC3_15,10,10,1,0,2,2,5,0
+Yellow Man ,YM,6,Mid,Acer,AC4,YM_AC4_12,10,10,1,0,0,0,8,1
+Yellow Man ,YM,6,Mid,Acer,AC4,YM_AC4_19,10,10,0,0,0,2,5,3
+Yellow Man ,YM,6,Mid,Acer,AC4,YM_AC4_13,10,10,0,0,1,1,8,0
+Yellow Man ,YM,6,Mid,Acer,AC4,YM_AC4_16,10,10,0,0,0,0,5,5
+Yellow Man ,YM,6,Mid,Acer,AC4,YM_AC4_9,10,10,0,0,0,0,3,7
+Yellow Man ,YM,6,Mid,Acer,AC4,YM_AC4_7,10,10,1,0,0,0,7,2
+Yellow Man ,YM,6,Mid,Acer,AC5,YM_AC5_2,10,10,2,1,3,1,3,0
+Yellow Man ,YM,6,Mid,Acer,AC5,YM_AC5_3,10,10,1,1,1,1,6,0
+Yellow Man ,YM,6,Mid,Acer,AC5,YM_AC5_7,10,10,0,0,0,0,2,8
+Yellow Man ,YM,6,Mid,Acer,AC5,YM_AC5_5,10,10,1,1,1,2,5,0
+Yellow Man ,YM,6,Mid,Acer,AC5,YM_AC5_1,10,10,0,0,1,4,4,1
+Yellow Man ,YM,6,Mid,Acer,AC6,YM_AC6_13,10,10,1,1,0,1,7,0
+Yellow Man ,YM,6,Mid,Acer,AC6,YM_AC6_18,10,10,0,1,1,1,6,1
+Yellow Man ,YM,6,Mid,Acer,AC6,YM_AC6_12,10,10,0,0,0,0,4,6
+Yellow Man ,YM,6,Mid,Acer,AC6,YM_AC6_1,10,10,1,0,0,0,8,1
+Yellow Man ,YM,6,Mid,Acer,AC6,YM_AC6_17,10,10,0,0,0,1,9,0
+Yellow Man ,YM,6,Mid,Acer,AC7,YM_AC7_11,10,10,0,0,0,0,7,3
+Yellow Man ,YM,6,Mid,Acer,AC7,YM_AC7_4,10,9,0,0,0,0,4,5
+Yellow Man ,YM,6,Mid,Acer,AC7,YM_AC7_1,10,10,0,0,0,0,10,0
+Yellow Man ,YM,6,Mid,Acer,AC7,YM_AC7_6,10,10,0,0,0,0,7,3
+Yellow Man ,YM,6,Mid,Acer,AC7,YM_AC7_3,10,10,0,0,0,1,4,5
+Yellow Man ,YM,6,Mid,Acer,AC8,YM_AC8_6,10,10,0,0,0,0,10,0
+Yellow Man ,YM,6,Mid,Acer,AC8,YM_AC8_1,10,9,0,0,0,0,9,0
+Yellow Man ,YM,6,Mid,Acer,AC8,YM_AC8_4,10,10,0,0,0,0,10,0
+Yellow Man ,YM,6,Mid,Acer,AC8,YM_AC8_9,10,10,1,1,1,3,4,0
+Yellow Man ,YM,6,Mid,Acer,AC8,YM_AC8_3,10,10,0,0,0,0,10,0
+Yellow Man ,YM,6,Mid,Acer,AC9,YM_AC9_2,10,10,0,4,1,2,3,0
+Yellow Man ,YM,6,Mid,Acer,AC9,YM_AC9_7,10,10,3,4,2,1,0,0
+Yellow Man ,YM,6,Mid,Acer,AC9,YM_AC9_1,10,10,3,5,1,0,1,0
+Yellow Man ,YM,6,Mid,Acer,AC9,YM_AC9_11,10,10,5,3,1,1,0,0
+Yellow Man ,YM,6,Mid,Acer,AC9,YM_AC9_13,10,10,5,3,0,1,1,0
+Yellow Man ,YM,6,Mid,Acer,AC10,YM_AC10_10,10,10,0,0,0,0,8,2
+Yellow Man ,YM,6,Mid,Acer,AC10,YM_AC10_12,10,10,0,1,1,1,7,0
+Yellow Man ,YM,6,Mid,Acer,AC10,YM_AC10_4,10,10,0,0,0,0,5,5
+Yellow Man ,YM,6,Mid,Acer,AC10,YM_AC10_9,10,10,0,0,0,0,9,1
+Yellow Man ,YM,6,Mid,Acer,AC10,YM_AC10_6,10,10,0,0,0,0,9,1
+Yellow Man ,YM,6,Mid,Acer,AC11,YM_AC11_3,10,10,0,0,0,1,9,0
+Yellow Man ,YM,6,Mid,Acer,AC11,YM_AC11_5,10,10,0,0,1,1,7,1
+Yellow Man ,YM,6,Mid,Acer,AC11,YM_AC11_9,10,10,2,0,1,2,3,2
+Yellow Man ,YM,6,Mid,Acer,AC11,YM_AC11_8,10,10,0,0,0,0,9,1
+Yellow Man ,YM,6,Mid,Acer,AC11,YM_AC11_16,10,10,0,0,0,0,5,5
+Yellow Man ,YM,6,Mid,Acer,AC12,YM_AC12_1,10,10,0,0,0,0,8,2
+Yellow Man ,YM,6,Mid,Acer,AC12,YM_AC12_15,10,10,0,0,0,0,7,3
+Yellow Man ,YM,6,Mid,Acer,AC12,YM_AC12_19,10,10,0,0,0,0,8,2
+Yellow Man ,YM,6,Mid,Acer,AC12,YM_AC12_7,10,10,0,0,0,0,9,1
+Yellow Man ,YM,6,Mid,Acer,AC12,YM_AC12_8,10,10,0,0,0,0,9,1
+Yellow Man ,YM,6,Mid,Acer,AC23,YM_AC23_9,10,10,0,0,1,1,6,2
+Yellow Man ,YM,6,Mid,Acer,AC23,YM_AC23_8,10,10,0,0,0,1,8,1
+Yellow Man ,YM,6,Mid,Acer,AC23,YM_AC23_4,10,10,0,1,2,1,6,0
+Yellow Man ,YM,6,Mid,Acer,AC23,YM_AC23_2,10,10,0,1,0,2,7,0
+Yellow Man ,YM,6,Mid,Acer,AC23,YM_AC23_6,10,10,0,0,0,2,8,0
+Yellow Man ,YM,6,Mid,Acer,AC24,YM_AC24_9,10,10,0,0,0,3,7,0
+Yellow Man ,YM,6,Mid,Acer,AC24,YM_AC24_5,10,10,0,0,0,0,10,0
+Yellow Man ,YM,6,Mid,Acer,AC24,YM_AC24_8,10,10,0,0,0,0,10,0
+Yellow Man ,YM,6,Mid,Acer,AC24,YM_AC24_1,10,10,0,0,0,0,10,0
+Yellow Man ,YM,6,Mid,Acer,AC24,YM_AC24_7,10,10,1,2,0,0,7,0
+Yellow Man ,YM,6,Mid,Acer,AC24,YM_AC24_6,10,10,0,0,0,1,9,0
+Yellow Man ,YM,6,Mid,Acer,AC12,YM_AC12_4,10,10,0,0,0,0,10,0
+Yellow Man ,YM,6,Mid,Acer,AC12,YM_AC12_13,10,10,0,1,0,0,9,0
+Yellow Man ,YM,6,Mid,Acer,AC25,YM_AC25_4,10,10,1,0,1,0,8,0
+Yellow Man ,YM,6,Mid,Acer,AC25,YM_AC25_6,10,10,0,0,0,0,9,1
+Yellow Man ,YM,6,Mid,Acer,AC25,YM_AC25_7,10,10,2,0,0,1,7,0
+Yellow Man ,YM,6,Mid,Acer,AC25,YM_AC25_5,10,10,3,0,1,1,4,1
+Yellow Man ,YM,6,Mid,Acer,AC25,YM_AC25_1,10,10,2,1,1,0,6,0
+Yellow Man ,YM,6,Mid,Acer,AC26,YM_AC26_4,10,10,0,0,0,0,6,4
+Yellow Man ,YM,6,Mid,Acer,AC26,YM_AC26_3,10,10,0,0,0,0,4,6
+Yellow Man ,YM,6,Mid,Acer,AC26,YM_AC26_6,10,10,0,0,0,0,5,5
+Yellow Man ,YM,6,Mid,Acer,AC26,YM_AC26_2,10,10,1,4,2,1,1,1
+Yellow Man ,YM,6,Mid,Acer,AC26,YM_AC26_1,10,10,0,0,0,0,4,6
+Yellow Man ,YM,3,Initial,Acer,AC1,YM_AC1_10,10,10,0,1,1,3,4,1
+Yellow Man ,YM,3,Initial,Acer,AC1,YM_AC1_17,10,10,0,0,1,0,9,0
+Yellow Man ,YM,3,Initial,Acer,AC1,YM_AC1_21,10,10,0,0,0,0,5,5
+Yellow Man ,YM,3,Initial,Acer,AC1,YM_AC1_24,10,10,0,0,0,2,2,6
+Yellow Man ,YM,3,Initial,Acer,AC1,YM_AC1_26,10,10,0,0,0,0,3,7
+Yellow Man ,YM,3,Initial,Acer,AC1,YM_AC1_28,10,10,0,1,1,0,2,6
+Yellow Man ,YM,3,Initial,Acer,AC3,YM_AC3_1,10,10,0,0,0,0,2,8
+Yellow Man ,YM,3,Initial,Acer,AC3,YM_AC3_4,10,10,0,2,3,2,2,1
+Yellow Man ,YM,3,Initial,Acer,AC3,YM_AC3_5,10,10,2,2,3,2,1,0
+Yellow Man ,YM,3,Initial,Acer,AC3,YM_AC3_11,10,10,2,0,0,3,5,0
+Yellow Man ,YM,3,Initial,Acer,AC3,YM_AC3_14,10,10,0,1,1,2,1,5
+Yellow Man ,YM,3,Initial,Acer,AC3,YM_AC3_15,10,10,0,0,0,1,8,1
+Yellow Man ,YM,3,Initial,Acer,AC4,YM_AC4_7,10,10,1,0,0,0,7,2
+Yellow Man ,YM,3,Initial,Acer,AC4,YM_AC4_10,10,10,0,0,0,0,2,8
+Yellow Man ,YM,3,Initial,Acer,AC4,YM_AC4_16,10,10,0,0,0,0,1,9
+Yellow Man ,YM,3,Initial,Acer,AC4,YM_AC4_17,10,10,0,0,1,0,7,2
+Yellow Man ,YM,3,Initial,Acer,AC4,YM_AC4_20,10,10,0,0,0,0,6,4
+Yellow Man ,YM,3,Initial,Acer,AC4,YM_AC4_21,10,10,0,0,0,0,2,8
+Yellow Man ,YM,3,Initial,Acer,AC6,YM_AC6_3,10,10,0,0,1,0,4,5
+Yellow Man ,YM,3,Initial,Acer,AC6,YM_AC6_8,10,10,0,1,1,0,3,5
+Yellow Man ,YM,3,Initial,Acer,AC6,YM_AC6_11,10,10,0,0,3,0,6,1
+Yellow Man ,YM,3,Initial,Acer,AC6,YM_AC6_12,10,10,0,0,0,0,2,8
+Yellow Man ,YM,3,Initial,Acer,AC6,YM_AC6_13,10,10,1,1,1,0,6,1
+Yellow Man ,YM,3,Initial,Acer,AC6,YM_AC6_17,10,10,0,0,0,0,6,4
+Yellow Man ,YM,3,Initial,Acer,AC7,YM_AC7_1,10,10,0,0,0,0,6,4
+Yellow Man ,YM,3,Initial,Acer,AC7,YM_AC7_2,10,10,0,0,1,0,7,2
+Yellow Man ,YM,3,Initial,Acer,AC7,YM_AC7_5,10,10,0,0,0,1,7,2
+Yellow Man ,YM,3,Initial,Acer,AC7,YM_AC7_6,10,10,0,0,0,0,3,7
+Yellow Man ,YM,3,Initial,Acer,AC7,YM_AC7_7,10,10,0,0,0,0,0,10
+Yellow Man ,YM,3,Initial,Acer,AC7,YM_AC7_15,10,10,0,1,1,0,2,6
+Yellow Man ,YM,3,Initial,Acer,AC8,YM_AC8_3,10,10,0,0,0,0,2,8
+Yellow Man ,YM,3,Initial,Acer,AC8,YM_AC8_4,10,10,0,0,0,0,5,5
+Yellow Man ,YM,3,Initial,Acer,AC8,YM_AC8_5,10,10,0,0,0,0,4,6
+Yellow Man ,YM,3,Initial,Acer,AC8,YM_AC8_7,12,12,0,0,0,0,2,10
+Yellow Man ,YM,3,Initial,Acer,AC8,YM_AC8_8,10,10,0,0,0,1,3,6
+Yellow Man ,YM,3,Initial,Acer,AC9,YM_AC9_3,10,10,0,3,2,3,1,1
+Yellow Man ,YM,3,Initial,Acer,AC9,YM_AC9_11,10,10,2,4,1,0,2,1
+Yellow Man ,YM,3,Initial,Acer,AC9,YM_AC9_13,10,10,3,3,2,1,1,0
+Yellow Man ,YM,3,Initial,Acer,AC9,YM_AC9_14,10,10,1,3,0,0,5,1
+Yellow Man ,YM,3,Initial,Acer,AC9,YM_AC9_19,10,10,0,3,2,1,4,0
+Yellow Man ,YM,3,Initial,Acer,AC12,YM_AC12_1,10,10,0,0,0,0,4,6
+Yellow Man ,YM,3,Initial,Acer,AC12,YM_AC12_7,10,10,0,0,0,0,5,5
+Yellow Man ,YM,3,Initial,Acer,AC12,YM_AC12_8,10,10,0,0,0,0,9,1
+Yellow Man ,YM,3,Initial,Acer,AC12,YM_AC12_9,10,10,0,0,0,0,7,3
+Yellow Man ,YM,3,Initial,Acer,AC12,YM_AC12_15,10,10,0,0,0,0,6,4
+Yellow Man ,YM,3,Initial,Acer,AC12,YM_AC12_19,10,10,0,0,0,0,7,3
+Yellow Man ,YM,3,Initial,Acer,AC23,YM_AC23_1,10,10,0,0,1,0,5,4
+Yellow Man ,YM,3,Initial,Acer,AC23,YM_AC23_2,10,10,0,0,0,0,1,9
+Yellow Man ,YM,3,Initial,Acer,AC23,YM_AC23_6,10,10,0,0,0,0,0,10
+Yellow Man ,YM,3,Initial,Acer,AC23,YM_AC23_8,10,10,0,0,0,1,1,8
+Yellow Man ,YM,3,Initial,Acer,AC23,YM_AC23_9,10,10,0,0,0,0,1,9
+Yellow Man ,YM,3,Initial,Acer,AC24,YM_AC24_1,10,10,0,0,0,0,10,0
+Yellow Man ,YM,3,Initial,Acer,AC24,YM_AC24_3,10,10,0,0,0,0,8,2
+Yellow Man ,YM,3,Initial,Acer,AC24,YM_AC24_6,10,10,0,0,0,0,7,3
+Yellow Man ,YM,3,Initial,Acer,AC24,YM_AC24_7,10,10,0,0,0,0,9,1
+Yellow Man ,YM,3,Initial,Acer,AC24,YM_AC24_8,10,10,0,0,0,0,8,2
+Yellow Man ,YM,3,Initial,Acer,AC25,YM_AC25_3,10,9,0,0,0,0,1,8
+Yellow Man ,YM,3,Initial,Acer,AC25,YM_AC25_4,10,10,0,0,0,0,0,10
+Yellow Man ,YM,3,Initial,Acer,AC25,YM_AC25_5,10,10,0,0,0,0,0,10
+Yellow Man ,YM,3,Initial,Acer,AC25,YM_AC25_6,10,10,0,0,0,0,0,10
+Yellow Man ,YM,3,Initial,Acer,AC25,YM_AC25_7,10,10,0,0,0,0,1,9
+Yellow Man ,YM,3,Initial,Acer,AC26,YM_AC26_2,10,10,0,0,1,0,5,4
+Yellow Man ,YM,3,Initial,Acer,AC26,YM_AC26_3,10,10,0,0,0,1,1,8
+Yellow Man ,YM,3,Initial,Acer,AC26,YM_AC26_4,10,10,0,0,0,0,0,10
+Yellow Man ,YM,3,Initial,Acer,AC26,YM_AC26_5,10,10,0,0,0,1,7,2
+Yellow Man ,YM,3,Initial,Acer,AC26,YM_AC26_6,10,10,0,0,0,0,3,7
+Yellow Man ,YM,3,Initial,Acer,AC5,YM_AC5_1,10,10,0,0,2,0,7,1
+Yellow Man ,YM,3,Initial,Acer,AC5,YM_AC5_2,10,10,2,1,2,2,3,0
+Yellow Man ,YM,3,Initial,Acer,AC5,YM_AC5_3,10,10,1,0,0,0,2,7
+Yellow Man ,YM,3,Initial,Acer,AC5,YM_AC5_5,10,10,1,1,1,0,2,5
+Yellow Man ,YM,3,Initial,Acer,AC5,YM_AC5_7,10,10,0,0,0,0,0,10
+Yellow Man ,YM,3,Initial,Acer,AC10,YM_AC10_1,10,10,0,0,0,0,8,2
+Yellow Man ,YM,3,Initial,Acer,AC10,YM_AC10_3,10,10,0,0,0,0,6,4
+Yellow Man ,YM,3,Initial,Acer,AC10,YM_AC10_6,10,10,0,0,0,0,7,3
+Yellow Man ,YM,3,Initial,Acer,AC10,YM_AC10_9,10,10,0,0,0,0,3,7
+Yellow Man ,YM,3,Initial,Acer,AC10,YM_AC10_10,10,10,0,0,0,0,10,0
+Yellow Man ,YM,3,Initial,Acer,AC10,YM_AC10_12,10,10,0,0,0,0,10,0
+Yellow Man ,YM,3,Initial,Acer,AC11,YM_AC11_1,10,10,0,0,0,0,4,6
+Yellow Man ,YM,3,Initial,Acer,AC11,YM_AC11_4,10,10,0,0,0,0,5,5
+Yellow Man ,YM,3,Initial,Acer,AC11,YM_AC11_13,10,9,0,0,0,0,6,3
+Yellow Man ,YM,3,Initial,Acer,AC11,YM_AC11_15,10,10,0,0,0,0,10,0
+Yellow Man ,YM,3,Initial,Acer,AC11,YM_AC11_18,12,12,0,0,0,0,2,10
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_1,10,10,0,0,0,1,8,1
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_2,10,10,0,0,2,2,4,2
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_3,10,10,0,0,0,3,5,2
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_4,10,10,0,1,2,0,3,4
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_5,10,10,1,1,0,2,3,3
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_6,10,10,0,1,0,2,7,0
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_7,10,10,1,0,2,1,6,0
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_8,10,9,0,1,1,0,7,0
+Punt Vierkant,PV,3,Initial,Acer,AC10,PV_AC10_9,10,10,1,0,0,3,6,0
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_1,10,10,0,0,0,2,5,3
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_2,10,10,4,4,2,0,0,0
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_3,10,10,2,2,1,1,4,0
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_4,10,10,3,1,1,3,2,0
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_5,10,10,1,0,1,0,4,4
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_6,10,10,1,0,2,5,2,0
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_7,10,10,0,0,0,3,7,0
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_8,10,10,0,0,3,0,5,2
+Punt Vierkant,PV,3,Initial,Acer,AC11,PV_AC11_9,10,10,0,0,0,1,9,0
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_1,10,10,0,0,0,0,1,9
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_2,10,10,0,0,0,0,1,9
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_3,10,10,0,0,0,2,6,2
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_4,10,10,0,0,2,1,3,4
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_5,10,10,0,0,0,1,1,8
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_6,10,10,1,0,0,0,3,6
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_7,10,10,0,2,3,3,2,0
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_8,10,10,0,1,2,3,4,0
+Punt Vierkant,PV,3,Initial,Acer,AC12,PV_AC12_9,10,10,0,0,0,1,6,3
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_1,10,10,0,0,1,1,5,3
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_2,10,10,0,0,0,0,6,4
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_3,10,10,0,0,0,0,1,9
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_4,10,10,0,0,1,1,3,5
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_5,10,10,0,0,1,1,6,2
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_6,10,10,0,1,0,1,4,4
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_7,10,10,0,0,0,0,2,8
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_8,10,10,0,2,0,1,5,2
+Punt Vierkant,PV,3,Initial,Acer,AC13,PV_AC13_9,10,10,0,0,0,0,7,3
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_1,10,10,2,2,0,3,3,0
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_2,10,9,0,4,3,2,0,0
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_3,10,10,0,1,5,2,2,0
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_4,10,10,1,3,4,1,1,0
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_5,10,10,2,0,2,0,5,1
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_6,10,10,1,0,6,3,0,0
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_7,10,8,1,5,0,1,1,0
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_8,10,10,0,2,3,2,3,0
+Punt Vierkant,PV,3,Initial,Acer,AC14,PV_AC14_9,10,10,0,1,1,3,5,0
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_1,10,10,0,0,0,3,7,0
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_2,10,10,0,0,0,1,7,2
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_3,10,10,0,0,0,0,9,1
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_4,10,10,0,0,1,2,7,0
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_5,10,10,0,0,0,0,9,1
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_6,10,10,0,0,0,4,6,0
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_7,10,10,0,0,0,0,10,0
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_8,10,10,0,0,0,2,8,0
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_9,10,10,1,0,0,1,8,0
+Punt Vierkant,PV,3,Initial,Acer,AC15,PV_AC15_10,5,5,0,0,0,1,4,0
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_1,10,10,0,0,0,2,4,4
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_2,10,10,2,1,2,1,4,0
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_3,10,10,1,2,1,3,3,0
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_4,10,10,0,1,1,3,5,0
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_5,10,10,0,0,0,1,9,0
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_6,10,10,0,1,6,2,1,0
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_7,10,10,1,0,1,4,4,0
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_8,10,10,0,0,2,4,4,0
+Punt Vierkant,PV,3,Initial,Acer,AC16,PV_AC16_9,10,10,0,0,0,1,9,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_1,10,10,5,1,3,0,1,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_2,10,10,0,0,0,1,9,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_3,10,10,2,0,2,1,5,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_4,10,10,0,0,1,3,6,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_5,10,10,0,0,1,3,6,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_6,10,10,0,0,0,6,4,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_7,10,10,8,2,0,0,0,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_8,10,10,3,4,3,0,0,0
+Punt Vierkant,PV,3,Initial,Acer,AC17,PV_AC17_9,10,10,6,2,2,0,0,0
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_1,10,10,0,1,0,1,4,4
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_2,10,10,1,0,0,2,4,3
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_3,10,10,0,1,0,0,4,5
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_4,10,10,0,0,0,1,2,7
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_5,10,10,1,0,0,3,1,5
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_6,10,10,1,2,4,3,0,0
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_7,10,10,1,4,2,2,1,0
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_8,11,11,2,1,3,3,2,0
+Punt Vierkant,PV,3,Initial,Acer,AC18,PV_AC18_9,10,10,0,1,0,2,7,0
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_1,10,10,0,0,1,3,5,1
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_2,10,10,0,0,0,0,7,3
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_3,10,10,1,3,1,3,2,0
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_4,10,10,0,0,0,2,8,0
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_5,10,10,3,2,0,0,5,0
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_6,10,10,1,2,1,3,3,0
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_7,10,10,0,0,0,1,9,0
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_8,10,10,0,6,1,2,1,0
+Punt Vierkant,PV,3,Initial,Acer,AC19,PV_AC19_9,10,10,0,0,0,2,8,0
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_1,10,10,0,0,1,1,8,0
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_2,10,10,1,1,1,0,6,1
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_3,10,10,0,0,1,4,5,0
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_4,10,10,0,0,2,1,5,2
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_5,10,10,1,1,0,1,5,2
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_6,10,10,0,0,0,2,6,2
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_7,10,10,1,1,1,0,7,0
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_8,10,10,0,0,1,1,8,0
+Punt Vierkant,PV,6,Mid,Acer,AC10,PV_AC10_9,10,10,1,0,0,3,6,0
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_1,10,10,0,0,0,0,10,0
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_2,10,10,4,3,2,0,1,0
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_3,10,10,3,2,0,0,5,0
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_4,10,10,3,0,3,2,2,0
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_5,10,10,2,2,0,0,6,0
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_6,10,10,0,1,1,4,4,0
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_7,10,10,1,0,1,5,3,0
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_8,10,10,1,2,0,0,5,2
+Punt Vierkant,PV,6,Mid,Acer,AC11,PV_AC11_9,10,10,1,2,0,1,6,0
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_1,10,10,1,2,1,1,2,3
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_2,10,10,0,0,0,0,1,9
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_3,10,10,0,0,0,1,5,4
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_4,10,10,2,1,0,1,3,3
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_5,10,10,0,0,2,0,7,1
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_6,10,10,1,1,1,2,5,0
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_7,10,10,0,2,3,2,3,0
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_8,10,10,1,1,1,2,5,0
+Punt Vierkant,PV,6,Mid,Acer,AC12,PV_AC12_9,10,10,0,0,2,3,4,1
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_1,10,10,0,0,0,1,5,4
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_2,10,10,0,1,0,1,5,3
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_3,10,10,0,3,0,0,1,6
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_4,10,10,0,1,3,2,3,1
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_5,10,10,0,1,0,1,6,2
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_6,10,10,0,1,1,1,5,2
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_7,10,10,0,0,0,1,6,3
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_8,10,10,0,2,0,1,6,1
+Punt Vierkant,PV,6,Mid,Acer,AC13,PV_AC13_9,10,10,0,0,0,0,8,2
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_1,10,10,6,3,1,0,0,0
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_2,10,9,2,2,3,2,0,0
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_3,10,10,1,5,4,0,0,0
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_4,10,10,2,3,3,1,1,0
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_5,10,10,1,2,1,5,1,0
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_6,10,10,4,0,4,2,0,0
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_7,10,6,4,1,1,0,0,0
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_8,10,10,5,1,1,1,2,0
+Punt Vierkant,PV,6,Mid,Acer,AC14,PV_AC14_9,10,10,0,0,1,3,6,0
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_1,10,10,0,0,0,5,5,0
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_2,10,10,0,0,0,0,7,3
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_3,10,10,0,0,0,0,9,1
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_4,10,10,0,1,0,0,9,0
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_5,10,10,0,0,0,0,8,2
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_6,10,10,0,0,0,0,8,2
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_7,10,10,0,0,0,0,9,1
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_8,10,10,0,1,1,1,6,1
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_9,10,10,1,0,0,1,7,1
+Punt Vierkant,PV,6,Mid,Acer,AC15,PV_AC15_10,5,5,0,0,0,0,4,1
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_1,10,10,0,2,4,3,1,0
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_2,10,10,3,1,0,2,4,0
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_3,10,10,1,1,2,4,2,0
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_4,10,10,0,0,1,3,6,0
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_5,10,10,0,0,0,0,8,2
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_6,10,10,1,2,1,4,2,0
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_7,10,10,0,1,2,1,6,0
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_8,10,10,0,2,2,2,4,0
+Punt Vierkant,PV,6,Mid,Acer,AC16,PV_AC16_9,10,10,0,0,1,3,5,1
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_1,10,10,6,0,0,1,2,1
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_2,10,10,0,0,0,0,6,4
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_3,10,10,0,0,1,1,3,5
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_4,10,10,1,0,1,2,4,1
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_5,10,10,0,0,0,0,7,3
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_6,10,10,4,0,1,2,3,0
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_7,10,10,8,1,1,0,0,0
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_8,10,10,8,1,1,0,0,0
+Punt Vierkant,PV,6,Mid,Acer,AC17,PV_AC17_9,10,10,6,2,0,2,0,0
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_1,10,10,0,3,0,0,3,4
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_2,10,10,1,0,0,1,6,2
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_3,10,10,1,0,0,2,5,2
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_4,10,10,1,0,0,0,3,6
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_5,10,10,1,0,0,2,5,2
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_6,10,10,2,1,2,2,3,0
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_7,10,10,3,2,0,1,4,0
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_8,11,11,2,1,0,3,5,0
+Punt Vierkant,PV,6,Mid,Acer,AC18,PV_AC18_9,10,10,0,1,1,1,7,0
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_1,10,10,0,0,0,0,5,5
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_2,10,10,0,0,0,3,6,1
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_3,10,10,4,3,1,1,1,0
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_4,10,10,0,0,0,0,6,4
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_5,10,10,3,1,0,0,5,1
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_6,10,10,2,1,2,1,3,1
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_7,10,10,2,2,1,1,4,0
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_8,10,10,5,3,1,0,1,0
+Punt Vierkant,PV,6,Mid,Acer,AC19,PV_AC19_9,10,10,2,1,3,1,3,0
